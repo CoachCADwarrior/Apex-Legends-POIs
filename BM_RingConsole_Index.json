@@ -1,0 +1,24 @@
+{
+    "Map": "Broken Moon",
+    "Total_Games_Analyzed": 2,
+    "Total_Spawns_Detected": 3,
+    "Unique_Spawn_Points_Found": 2,
+    "Spawn_Index": [
+        {
+            "poi_name": "ProductionYard",
+            "coordinates_4096": [
+                408,
+                2237
+            ],
+            "spawn_count": 2
+        },
+        {
+            "poi_name": "EternalGardens",
+            "coordinates_4096": [
+                3307,
+                1729
+            ],
+            "spawn_count": 1
+        }
+    ]
+}
