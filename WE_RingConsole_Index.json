@@ -1,32 +1,24 @@
 {
     "Map": "World's Edge",
-    "Total_Games_Analyzed": 28,
-    "Total_Spawns_Detected": 336,
+    "Total_Games_Analyzed": 45,
+    "Total_Spawns_Detected": 540,
     "Unique_Spawn_Points_Found": 20,
     "Spawn_Index": [
-        {
-            "poi_name": "Overlook",
-            "coordinates_4096": [
-                3540,
-                1729
-            ],
-            "spawn_count": 22
-        },
-        {
-            "poi_name": "Tree",
-            "coordinates_4096": [
-                1702,
-                3413
-            ],
-            "spawn_count": 21
-        },
         {
             "poi_name": "Harvester",
             "coordinates_4096": [
                 1980,
                 2488
             ],
-            "spawn_count": 20
+            "spawn_count": 34
+        },
+        {
+            "poi_name": "Overlook",
+            "coordinates_4096": [
+                3540,
+                1729
+            ],
+            "spawn_count": 34
         },
         {
             "poi_name": "Climatizer",
@@ -34,39 +26,7 @@
                 3020,
                 952
             ],
-            "spawn_count": 19
-        },
-        {
-            "poi_name": "Monument",
-            "coordinates_4096": [
-                2346,
-                1684
-            ],
-            "spawn_count": 19
-        },
-        {
-            "poi_name": "Thermal Station",
-            "coordinates_4096": [
-                1143,
-                2920
-            ],
-            "spawn_count": 19
-        },
-        {
-            "poi_name": "LavaSiphon",
-            "coordinates_4096": [
-                2340,
-                2959
-            ],
-            "spawn_count": 18
-        },
-        {
-            "poi_name": "Staging",
-            "coordinates_4096": [
-                1273,
-                2294
-            ],
-            "spawn_count": 18
+            "spawn_count": 33
         },
         {
             "poi_name": "SurveyCamp",
@@ -74,31 +34,39 @@
                 2313,
                 834
             ],
-            "spawn_count": 18
+            "spawn_count": 32
         },
         {
-            "poi_name": "Mirage",
+            "poi_name": "Tree",
             "coordinates_4096": [
-                801,
-                2101
+                1702,
+                3413
             ],
-            "spawn_count": 17
+            "spawn_count": 32
         },
         {
-            "poi_name": "SkyhookWest",
+            "poi_name": "LavaSiphon",
             "coordinates_4096": [
-                1282,
-                964
+                2340,
+                2959
             ],
-            "spawn_count": 17
+            "spawn_count": 29
         },
         {
-            "poi_name": "BigMaude",
+            "poi_name": "Staging",
             "coordinates_4096": [
-                3171,
-                2884
+                1273,
+                2294
             ],
-            "spawn_count": 16
+            "spawn_count": 29
+        },
+        {
+            "poi_name": "Thermal Station",
+            "coordinates_4096": [
+                1143,
+                2920
+            ],
+            "spawn_count": 29
         },
         {
             "poi_name": "Geyser",
@@ -106,23 +74,23 @@
                 3367,
                 2382
             ],
-            "spawn_count": 16
+            "spawn_count": 28
         },
         {
-            "poi_name": "Stacks",
+            "poi_name": "BigMaude",
             "coordinates_4096": [
-                3038,
-                3461
+                3171,
+                2884
             ],
-            "spawn_count": 16
+            "spawn_count": 27
         },
         {
-            "poi_name": "Landslide",
+            "poi_name": "Monument",
             "coordinates_4096": [
-                1475,
-                1823
+                2346,
+                1684
             ],
-            "spawn_count": 15
+            "spawn_count": 27
         },
         {
             "poi_name": "LaunchSite",
@@ -130,7 +98,31 @@
                 2273,
                 3709
             ],
-            "spawn_count": 15
+            "spawn_count": 26
+        },
+        {
+            "poi_name": "Mirage",
+            "coordinates_4096": [
+                801,
+                2101
+            ],
+            "spawn_count": 26
+        },
+        {
+            "poi_name": "SkyhookWest",
+            "coordinates_4096": [
+                1282,
+                964
+            ],
+            "spawn_count": 26
+        },
+        {
+            "poi_name": "Stacks",
+            "coordinates_4096": [
+                3038,
+                3461
+            ],
+            "spawn_count": 26
         },
         {
             "poi_name": "LavaFissure",
@@ -138,7 +130,15 @@
                 710,
                 1650
             ],
-            "spawn_count": 15
+            "spawn_count": 24
+        },
+        {
+            "poi_name": "Landslide",
+            "coordinates_4096": [
+                1475,
+                1823
+            ],
+            "spawn_count": 23
         },
         {
             "poi_name": "Countdown",
@@ -146,7 +146,7 @@
                 1239,
                 1415
             ],
-            "spawn_count": 13
+            "spawn_count": 22
         },
         {
             "poi_name": "Dome",
@@ -154,7 +154,7 @@
                 3017,
                 3854
             ],
-            "spawn_count": 12
+            "spawn_count": 20
         },
         {
             "poi_name": "Epicenter",
@@ -162,7 +162,7 @@
                 2624,
                 1106
             ],
-            "spawn_count": 10
+            "spawn_count": 13
         }
     ]
 }
