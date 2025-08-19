@@ -19237,10 +19237,12 @@
     {
       "source": 1,
       "target": 1078
+      "type": "balloon"
     },
     {
       "source": 1,
       "target": 1114
+      "type": "balloon"
     },
     {
       "source": 1,
