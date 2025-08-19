@@ -19179,12 +19179,6 @@
       "type": "Evacuation Tower"
     },
     {
-      "id": 1217,
-      "x": 2386.0194174757285,
-      "y": 2784.8944174757285,
-      "type": "Evacuation Tower"
-    },
-    {
       "id": 1218,
       "x": 1594.2947925860549,
       "y": 3126.930714916152,
@@ -20728,10 +20722,6 @@
       "target": 1027
     },
     {
-      "source": 1018,
-      "target": 1217
-    },
-    {
       "source": 1019,
       "target": 1020
     },
@@ -20759,10 +20749,6 @@
       "source": 1019,
       "target": 1210,
       "type": "balloon"
-    },
-    {
-      "source": 1019,
-      "target": 1217
     },
     {
       "source": 102,
@@ -20869,10 +20855,6 @@
       "target": 1030
     },
     {
-      "source": 1020,
-      "target": 1217
-    },
-    {
       "source": 1021,
       "target": 1022
     },
@@ -20905,10 +20887,6 @@
       "target": 1030
     },
     {
-      "source": 1021,
-      "target": 1217
-    },
-    {
       "source": 1022,
       "target": 1023
     },
@@ -20937,10 +20915,6 @@
       "target": 1030
     },
     {
-      "source": 1022,
-      "target": 1217
-    },
-    {
       "source": 1023,
       "target": 1024
     },
@@ -20965,10 +20939,6 @@
       "target": 1030
     },
     {
-      "source": 1023,
-      "target": 1217
-    },
-    {
       "source": 1024,
       "target": 1025
     },
@@ -20989,24 +20959,12 @@
       "target": 1030
     },
     {
-      "source": 1024,
-      "target": 1217
-    },
-    {
       "source": 1025,
       "target": 1026
     },
     {
       "source": 1025,
       "target": 1105
-    },
-    {
-      "source": 1025,
-      "target": 1217
-    },
-    {
-      "source": 1026,
-      "target": 1217
     },
     {
       "source": 1028,
@@ -26816,346 +26774,6 @@
       "type": "balloon"
     },
     {
-      "source": 1217,
-      "target": 1005,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1007,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 101,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1010,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1011,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1012,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1013,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1014,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 102,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1027,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1028,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1029,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 103,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1030,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1031,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1032,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1033,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 104,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 105,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 106,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 107,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1104,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1105,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1106,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 113,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1133,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1200,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 1201,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 123,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 124,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 131,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 132,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 133,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 134,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 137,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 141,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 142,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 146,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 147,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 192,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 193,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 300,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 301,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 308,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 309,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 310,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 311,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 312,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 319,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 320,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 323,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 324,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 515,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 604,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 677,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 751,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 752,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 753,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 754,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 770,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 795,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 814,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 878,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 879,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 923,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 924,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 983,
-      "type": "balloon"
-    },
-    {
-      "source": 1217,
-      "target": 984,
-      "type": "balloon"
-    },
-    {
       "source": 122,
       "target": 1017
     },
@@ -29709,10 +29327,6 @@
     },
     {
       "source": 135,
-      "target": 1217
-    },
-    {
-      "source": 135,
       "target": 136
     },
     {
@@ -29782,10 +29396,6 @@
     {
       "source": 136,
       "target": 1028
-    },
-    {
-      "source": 136,
-      "target": 1217
     },
     {
       "source": 136,
@@ -29945,10 +29555,6 @@
     },
     {
       "source": 138,
-      "target": 1217
-    },
-    {
-      "source": 138,
       "target": 139
     },
     {
@@ -30034,10 +29640,6 @@
     {
       "source": 139,
       "target": 1200
-    },
-    {
-      "source": 139,
-      "target": 1217
     },
     {
       "source": 139,
@@ -30239,10 +29841,6 @@
     {
       "source": 140,
       "target": 1031
-    },
-    {
-      "source": 140,
-      "target": 1217
     },
     {
       "source": 140,
@@ -30478,10 +30076,6 @@
     },
     {
       "source": 143,
-      "target": 1217
-    },
-    {
-      "source": 143,
       "target": 144
     },
     {
@@ -30578,10 +30172,6 @@
     },
     {
       "source": 144,
-      "target": 1217
-    },
-    {
-      "source": 144,
       "target": 145
     },
     {
@@ -30664,10 +30254,6 @@
       "source": 145,
       "target": 1210,
       "type": "balloon"
-    },
-    {
-      "source": 145,
-      "target": 1217
     },
     {
       "source": 145,
@@ -32510,10 +32096,6 @@
     {
       "source": 17,
       "target": 1030
-    },
-    {
-      "source": 17,
-      "target": 1217
     },
     {
       "source": 17,
@@ -44402,10 +43984,6 @@
     {
       "source": 36,
       "target": 1030
-    },
-    {
-      "source": 36,
-      "target": 1217
     },
     {
       "source": 36,
@@ -64169,10 +63747,6 @@
     },
     {
       "source": 663,
-      "target": 1217
-    },
-    {
-      "source": 663,
       "target": 676
     },
     {
@@ -64890,10 +64464,6 @@
     {
       "source": 676,
       "target": 1029
-    },
-    {
-      "source": 676,
-      "target": 1217
     },
     {
       "source": 676,
@@ -71012,10 +70582,6 @@
     },
     {
       "source": 801,
-      "target": 1217
-    },
-    {
-      "source": 801,
       "target": 802
     },
     {
@@ -71092,10 +70658,6 @@
     },
     {
       "source": 802,
-      "target": 1217
-    },
-    {
-      "source": 802,
       "target": 803
     },
     {
@@ -71164,10 +70726,6 @@
     },
     {
       "source": 803,
-      "target": 1217
-    },
-    {
-      "source": 803,
       "target": 804
     },
     {
@@ -71229,10 +70787,6 @@
     {
       "source": 804,
       "target": 1030
-    },
-    {
-      "source": 804,
-      "target": 1217
     },
     {
       "source": 804,
@@ -73980,10 +73534,6 @@
     },
     {
       "source": 890,
-      "target": 1217
-    },
-    {
-      "source": 890,
       "target": 983
     },
     {
@@ -76725,10 +76275,6 @@
     },
     {
       "source": 985,
-      "target": 1217
-    },
-    {
-      "source": 985,
       "target": 986
     },
     {
@@ -76786,10 +76332,6 @@
     {
       "source": 986,
       "target": 1201
-    },
-    {
-      "source": 986,
-      "target": 1217
     },
     {
       "source": 988,
