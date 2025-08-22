@@ -1,7 +1,7 @@
 {
     "Map": "Storm Point",
-    "Total_Games_Analyzed": 41,
-    "Total_Spawns_Detected": 491,
+    "Total_Games_Analyzed": 58,
+    "Total_Spawns_Detected": 695,
     "Unique_Spawn_Points_Found": 19,
     "Spawn_Index": [
         {
@@ -10,23 +10,7 @@
                 1475,
                 1959
             ],
-            "spawn_count": 31
-        },
-        {
-            "poi_name": "Barometer",
-            "coordinates_4096": [
-                1388,
-                2978
-            ],
-            "spawn_count": 29
-        },
-        {
-            "poi_name": "Pylon",
-            "coordinates_4096": [
-                2355,
-                2826
-            ],
-            "spawn_count": 29
+            "spawn_count": 43
         },
         {
             "poi_name": "CenoteCave",
@@ -34,7 +18,7 @@
                 611,
                 2953
             ],
-            "spawn_count": 28
+            "spawn_count": 42
         },
         {
             "poi_name": "StormCatcher",
@@ -42,7 +26,7 @@
                 3038,
                 1687
             ],
-            "spawn_count": 28
+            "spawn_count": 41
         },
         {
             "poi_name": "DevastatedCoast",
@@ -50,7 +34,7 @@
                 3177,
                 2968
             ],
-            "spawn_count": 27
+            "spawn_count": 40
         },
         {
             "poi_name": "LaunchPad",
@@ -58,55 +42,15 @@
                 3310,
                 2539
             ],
-            "spawn_count": 27
+            "spawn_count": 40
         },
         {
-            "poi_name": "Cascades",
+            "poi_name": "Barometer",
             "coordinates_4096": [
-                2046,
-                1475
+                1388,
+                2978
             ],
-            "spawn_count": 26
-        },
-        {
-            "poi_name": "LightningRod",
-            "coordinates_4096": [
-                3374,
-                886
-            ],
-            "spawn_count": 26
-        },
-        {
-            "poi_name": "Mill",
-            "coordinates_4096": [
-                644,
-                2059
-            ],
-            "spawn_count": 26
-        },
-        {
-            "poi_name": "NorthPad",
-            "coordinates_4096": [
-                1019,
-                668
-            ],
-            "spawn_count": 26
-        },
-        {
-            "poi_name": "Checkpoint",
-            "coordinates_4096": [
-                1233,
-                1209
-            ],
-            "spawn_count": 25
-        },
-        {
-            "poi_name": "Jurassic",
-            "coordinates_4096": [
-                2089,
-                2267
-            ],
-            "spawn_count": 25
+            "spawn_count": 39
         },
         {
             "poi_name": "CoastalCamp",
@@ -114,23 +58,7 @@
                 2161,
                 3422
             ],
-            "spawn_count": 24
-        },
-        {
-            "poi_name": "EchoHQ",
-            "coordinates_4096": [
-                2687,
-                3195
-            ],
-            "spawn_count": 24
-        },
-        {
-            "poi_name": "Wall",
-            "coordinates_4096": [
-                2291,
-                635
-            ],
-            "spawn_count": 24
+            "spawn_count": 38
         },
         {
             "poi_name": "CommandCenter",
@@ -138,7 +66,79 @@
                 2612,
                 1215
             ],
-            "spawn_count": 23
+            "spawn_count": 37
+        },
+        {
+            "poi_name": "LightningRod",
+            "coordinates_4096": [
+                3374,
+                886
+            ],
+            "spawn_count": 37
+        },
+        {
+            "poi_name": "Pylon",
+            "coordinates_4096": [
+                2355,
+                2826
+            ],
+            "spawn_count": 37
+        },
+        {
+            "poi_name": "Checkpoint",
+            "coordinates_4096": [
+                1233,
+                1209
+            ],
+            "spawn_count": 36
+        },
+        {
+            "poi_name": "NorthPad",
+            "coordinates_4096": [
+                1019,
+                668
+            ],
+            "spawn_count": 36
+        },
+        {
+            "poi_name": "Cascades",
+            "coordinates_4096": [
+                2046,
+                1475
+            ],
+            "spawn_count": 35
+        },
+        {
+            "poi_name": "Mill",
+            "coordinates_4096": [
+                644,
+                2059
+            ],
+            "spawn_count": 35
+        },
+        {
+            "poi_name": "Wall",
+            "coordinates_4096": [
+                2291,
+                635
+            ],
+            "spawn_count": 34
+        },
+        {
+            "poi_name": "EchoHQ",
+            "coordinates_4096": [
+                2687,
+                3195
+            ],
+            "spawn_count": 33
+        },
+        {
+            "poi_name": "Jurassic",
+            "coordinates_4096": [
+                2089,
+                2267
+            ],
+            "spawn_count": 33
         },
         {
             "poi_name": "ZeusStation",
@@ -146,7 +146,7 @@
                 3222,
                 372
             ],
-            "spawn_count": 23
+            "spawn_count": 30
         },
         {
             "poi_name": "DownedBeast",
@@ -154,7 +154,7 @@
                 744,
                 1267
             ],
-            "spawn_count": 20
+            "spawn_count": 29
         }
     ]
 }
