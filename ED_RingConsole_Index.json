@@ -1,32 +1,24 @@
 {
     "Map": "E-District",
-    "Total_Games_Analyzed": 90,
-    "Total_Spawns_Detected": 1078,
+    "Total_Games_Analyzed": 112,
+    "Total_Spawns_Detected": 1342,
     "Unique_Spawn_Points_Found": 20,
     "Spawn_Index": [
-        {
-            "poi_name": "StreetMarket",
-            "coordinates_4096": [
-                819,
-                2971
-            ],
-            "spawn_count": 65
-        },
         {
             "poi_name": "DraftPoint",
             "coordinates_4096": [
                 1666,
                 2724
             ],
-            "spawn_count": 62
+            "spawn_count": 80
         },
         {
-            "poi_name": "CanalPlaza",
+            "poi_name": "StreetMarket",
             "coordinates_4096": [
-                2059,
-                1481
+                819,
+                2971
             ],
-            "spawn_count": 61
+            "spawn_count": 79
         },
         {
             "poi_name": "Heights",
@@ -34,7 +26,15 @@
                 3377,
                 1650
             ],
-            "spawn_count": 60
+            "spawn_count": 75
+        },
+        {
+            "poi_name": "CanalPlaza",
+            "coordinates_4096": [
+                2059,
+                1481
+            ],
+            "spawn_count": 74
         },
         {
             "poi_name": "Resort",
@@ -42,7 +42,7 @@
                 840,
                 735
             ],
-            "spawn_count": 60
+            "spawn_count": 74
         },
         {
             "poi_name": "Settlement",
@@ -50,15 +50,7 @@
                 2603,
                 2612
             ],
-            "spawn_count": 59
-        },
-        {
-            "poi_name": "Boardwalk",
-            "coordinates_4096": [
-                583,
-                1496
-            ],
-            "spawn_count": 58
+            "spawn_count": 74
         },
         {
             "poi_name": "CityHall",
@@ -66,23 +58,7 @@
                 1400,
                 1427
             ],
-            "spawn_count": 58
-        },
-        {
-            "poi_name": "Lotus",
-            "coordinates_4096": [
-                1901,
-                880
-            ],
-            "spawn_count": 57
-        },
-        {
-            "poi_name": "HumbertLabs",
-            "coordinates_4096": [
-                2672,
-                3334
-            ],
-            "spawn_count": 56
+            "spawn_count": 73
         },
         {
             "poi_name": "Viaduct",
@@ -90,7 +66,15 @@
                 1351,
                 3392
             ],
-            "spawn_count": 56
+            "spawn_count": 72
+        },
+        {
+            "poi_name": "Boardwalk",
+            "coordinates_4096": [
+                583,
+                1496
+            ],
+            "spawn_count": 71
         },
         {
             "poi_name": "ElectroDam",
@@ -98,15 +82,23 @@
                 2845,
                 1040
             ],
-            "spawn_count": 55
+            "spawn_count": 69
         },
         {
-            "poi_name": "ShipyardArcade",
+            "poi_name": "Lotus",
             "coordinates_4096": [
-                1850,
-                3549
+                1901,
+                880
             ],
-            "spawn_count": 52
+            "spawn_count": 69
+        },
+        {
+            "poi_name": "HumbertLabs",
+            "coordinates_4096": [
+                2672,
+                3334
+            ],
+            "spawn_count": 68
         },
         {
             "poi_name": "EnergyBank",
@@ -114,7 +106,7 @@
                 2294,
                 1965
             ],
-            "spawn_count": 50
+            "spawn_count": 65
         },
         {
             "poi_name": "Galleria",
@@ -122,31 +114,15 @@
                 2672,
                 1530
             ],
-            "spawn_count": 50
+            "spawn_count": 62
         },
         {
-            "poi_name": "VibeIsle",
+            "poi_name": "ShipyardArcade",
             "coordinates_4096": [
-                2893,
-                1947
+                1850,
+                3549
             ],
-            "spawn_count": 48
-        },
-        {
-            "poi_name": "BlossomDrive",
-            "coordinates_4096": [
-                526,
-                2343
-            ],
-            "spawn_count": 46
-        },
-        {
-            "poi_name": "NeonSqaure",
-            "coordinates_4096": [
-                895,
-                2282
-            ],
-            "spawn_count": 46
+            "spawn_count": 60
         },
         {
             "poi_name": "Stadium",
@@ -154,7 +130,31 @@
                 3077,
                 2582
             ],
-            "spawn_count": 45
+            "spawn_count": 60
+        },
+        {
+            "poi_name": "VibeIsle",
+            "coordinates_4096": [
+                2893,
+                1947
+            ],
+            "spawn_count": 59
+        },
+        {
+            "poi_name": "NeonSqaure",
+            "coordinates_4096": [
+                895,
+                2282
+            ],
+            "spawn_count": 58
+        },
+        {
+            "poi_name": "BlossomDrive",
+            "coordinates_4096": [
+                526,
+                2343
+            ],
+            "spawn_count": 56
         },
         {
             "poi_name": "OldTown",
@@ -162,7 +162,7 @@
                 2645,
                 3643
             ],
-            "spawn_count": 34
+            "spawn_count": 44
         }
     ]
 }
