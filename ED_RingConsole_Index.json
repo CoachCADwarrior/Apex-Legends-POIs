@@ -1,9 +1,9 @@
 {
     "Map": "E-District",
-    "Total_Games_Scanned": 140,
+    "Total_Games_Scanned": 141,
     "Images_Discarded": 0,
-    "Total_Games_Analyzed": 140,
-    "Total_Spawns_Detected": 1680,
+    "Total_Games_Analyzed": 141,
+    "Total_Spawns_Detected": 1692,
     "Unique_Spawn_Points_Found": 20,
     "Spawn_Index": [
         {
@@ -12,7 +12,7 @@
                 1666,
                 2724
             ],
-            "spawn_count": 99
+            "spawn_count": 100
         },
         {
             "poi_name": "Heights",
@@ -20,7 +20,7 @@
                 3377,
                 1650
             ],
-            "spawn_count": 98
+            "spawn_count": 99
         },
         {
             "poi_name": "StreetMarket",
@@ -28,7 +28,7 @@
                 819,
                 2971
             ],
-            "spawn_count": 96
+            "spawn_count": 97
         },
         {
             "poi_name": "Boardwalk",
@@ -52,7 +52,7 @@
                 2059,
                 1481
             ],
-            "spawn_count": 90
+            "spawn_count": 91
         },
         {
             "poi_name": "Resort",
@@ -60,7 +60,7 @@
                 840,
                 735
             ],
-            "spawn_count": 90
+            "spawn_count": 91
         },
         {
             "poi_name": "CityHall",
@@ -68,7 +68,7 @@
                 1400,
                 1427
             ],
-            "spawn_count": 89
+            "spawn_count": 90
         },
         {
             "poi_name": "ElectroDam",
@@ -76,7 +76,7 @@
                 2845,
                 1040
             ],
-            "spawn_count": 89
+            "spawn_count": 90
         },
         {
             "poi_name": "Lotus",
@@ -92,7 +92,7 @@
                 1351,
                 3392
             ],
-            "spawn_count": 86
+            "spawn_count": 87
         },
         {
             "poi_name": "HumbertLabs",
@@ -140,7 +140,7 @@
                 526,
                 2343
             ],
-            "spawn_count": 74
+            "spawn_count": 75
         },
         {
             "poi_name": "Galleria",
@@ -148,7 +148,7 @@
                 2672,
                 1530
             ],
-            "spawn_count": 73
+            "spawn_count": 74
         },
         {
             "poi_name": "NeonSqaure",
@@ -156,7 +156,7 @@
                 895,
                 2282
             ],
-            "spawn_count": 71
+            "spawn_count": 72
         },
         {
             "poi_name": "OldTown",
@@ -164,7 +164,7 @@
                 2645,
                 3643
             ],
-            "spawn_count": 56
+            "spawn_count": 57
         }
     ]
 }
