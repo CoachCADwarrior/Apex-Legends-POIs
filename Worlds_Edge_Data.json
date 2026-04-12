@@ -135,7 +135,8 @@
       }
     ],
     "name": "Skyhook West",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -592,7 +593,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -1018,7 +1020,8 @@
       }
     ],
     "name": "Landslide",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -1292,7 +1295,8 @@
       }
     ],
     "name": "Mirage",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -1660,7 +1664,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -2150,7 +2155,8 @@
       }
     ],
     "name": "Tree",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -2774,7 +2780,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -3463,7 +3470,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -3849,7 +3857,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -4286,7 +4295,7 @@
         "y": 2583.574950310385
       }
     ],
-    "name": "Lava Syphon",
+    "name": "Lava Siphon",
     "holes": [
       {
         "name": "H",
@@ -5002,7 +5011,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -5256,7 +5266,8 @@
       }
     ],
     "name": "Lava Syphon (North Compound)",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -5638,7 +5649,8 @@
       }
     ],
     "name": "Geyser",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -5876,7 +5888,8 @@
       }
     ],
     "name": "Geyser Tunnel",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -6383,7 +6396,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -7028,7 +7042,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -7462,7 +7477,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -7688,7 +7704,8 @@
       }
     ],
     "name": "Needle",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -7800,7 +7817,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -8094,7 +8112,8 @@
       }
     ],
     "name": "Skyhook East",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -8396,7 +8415,8 @@
       }
     ],
     "name": "Skyhook East (Tunnel) ",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -8574,7 +8594,8 @@
       }
     ],
     "name": "Survey Camp",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -9044,7 +9065,8 @@
       }
     ],
     "name": "Monument",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -9438,7 +9460,8 @@
       }
     ],
     "name": "Lava Fissure",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -10897,7 +10920,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -11019,7 +11043,8 @@
       }
     ],
     "name": "Stacks Tunnel ",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -11205,7 +11230,8 @@
       }
     ],
     "name": "Stacks",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -11889,7 +11915,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -12241,7 +12268,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -12975,6 +13003,7 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   }
 ]

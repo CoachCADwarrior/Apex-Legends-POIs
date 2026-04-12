@@ -552,7 +552,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -1104,7 +1105,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -1501,7 +1503,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -2053,7 +2056,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -2383,7 +2387,8 @@
       }
     ],
     "name": "Pylon",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -2735,7 +2740,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -2955,7 +2961,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -3200,8 +3207,9 @@
         "y": 1337.8493506493508
       }
     ],
-    "name": "Cliffside",
-    "holes": []
+    "name": "East Trail",
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -3758,7 +3766,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -4175,7 +4184,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -4543,7 +4553,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -5032,7 +5043,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -5365,7 +5377,7 @@
         "y": 1872.0475940507436
       }
     ],
-    "name": "Stormcatcher",
+    "name": "Storm Catcher",
     "holes": [
       {
         "name": "H",
@@ -5409,7 +5421,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -5703,7 +5716,8 @@
       }
     ],
     "name": "Ceto Station",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -6063,7 +6077,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -6271,7 +6286,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -6385,7 +6401,8 @@
       }
     ],
     "name": "Downed Beast",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -6614,7 +6631,7 @@
         "y": 1778.158530183727
       }
     ],
-    "name": "Mill",
+    "name": "Mills",
     "holes": [
       {
         "name": "H",
@@ -6855,7 +6872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -7133,7 +7151,8 @@
       }
     ],
     "name": "Bean",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -7303,7 +7322,8 @@
       }
     ],
     "name": "God Cave",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -8014,7 +8034,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -8156,7 +8177,8 @@
       }
     ],
     "name": "Devastated Coast",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -8349,8 +8371,9 @@
         "y": 3222.3094289825895
       }
     ],
-    "name": "Echo Station",
-    "holes": []
+    "name": "Echo Hq",
+    "holes": [],
+    "z_levels": []
   },
   {
     "points": [
@@ -8831,7 +8854,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -9916,7 +9940,8 @@
           }
         ]
       }
-    ]
+    ],
+    "z_levels": []
   },
   {
     "points": [
@@ -10482,6 +10507,7 @@
       }
     ],
     "name": "Barometer",
-    "holes": []
+    "holes": [],
+    "z_levels": []
   }
 ]
