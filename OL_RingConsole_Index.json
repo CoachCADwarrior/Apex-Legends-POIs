@@ -1,9 +1,9 @@
 {
     "Map": "Unknown Map",
-    "Total_Games_Scanned": 38,
+    "Total_Games_Scanned": 49,
     "Images_Discarded": 3,
-    "Total_Games_Analyzed": 35,
-    "Total_Spawns_Detected": 420,
+    "Total_Games_Analyzed": 46,
+    "Total_Spawns_Detected": 552,
     "Unique_Spawn_Points_Found": 22,
     "Spawn_Index": [
         {
@@ -12,7 +12,7 @@
                 3497,
                 1895
             ],
-            "spawn_count": 24
+            "spawn_count": 30
         },
         {
             "poi_name": "Stabilizer",
@@ -20,15 +20,7 @@
                 1657,
                 795
             ],
-            "spawn_count": 24
-        },
-        {
-            "poi_name": "Elysium",
-            "coordinates_4096": [
-                3652,
-                1345
-            ],
-            "spawn_count": 22
+            "spawn_count": 30
         },
         {
             "poi_name": "Carrier",
@@ -36,63 +28,15 @@
                 1297,
                 1273
             ],
-            "spawn_count": 21
+            "spawn_count": 29
         },
         {
-            "poi_name": "GravityEngine",
+            "poi_name": "Elysium",
             "coordinates_4096": [
-                2705,
-                1738
+                3652,
+                1345
             ],
-            "spawn_count": 21
-        },
-        {
-            "poi_name": "HammondLabs",
-            "coordinates_4096": [
-                2198,
-                2340
-            ],
-            "spawn_count": 21
-        },
-        {
-            "poi_name": "Dockyard",
-            "coordinates_4096": [
-                719,
-                2328
-            ],
-            "spawn_count": 20
-        },
-        {
-            "poi_name": "GrowTowers",
-            "coordinates_4096": [
-                3228,
-                2316
-            ],
-            "spawn_count": 20
-        },
-        {
-            "poi_name": "Oasis",
-            "coordinates_4096": [
-                1094,
-                1602
-            ],
-            "spawn_count": 20
-        },
-        {
-            "poi_name": "SolarArray",
-            "coordinates_4096": [
-                2527,
-                3026
-            ],
-            "spawn_count": 20
-        },
-        {
-            "poi_name": "BonsaiPlaza",
-            "coordinates_4096": [
-                2219,
-                3576
-            ],
-            "spawn_count": 19
+            "spawn_count": 28
         },
         {
             "poi_name": "Estates",
@@ -100,7 +44,15 @@
                 1245,
                 2113
             ],
-            "spawn_count": 19
+            "spawn_count": 27
+        },
+        {
+            "poi_name": "GrowTowers",
+            "coordinates_4096": [
+                3228,
+                2316
+            ],
+            "spawn_count": 27
         },
         {
             "poi_name": "Hydroponics",
@@ -108,7 +60,7 @@
                 846,
                 2832
             ],
-            "spawn_count": 19
+            "spawn_count": 27
         },
         {
             "poi_name": "Icarus",
@@ -116,15 +68,31 @@
                 2829,
                 3528
             ],
-            "spawn_count": 19
+            "spawn_count": 27
         },
         {
-            "poi_name": "Rift",
+            "poi_name": "Oasis",
             "coordinates_4096": [
-                2621,
-                1109
+                1094,
+                1602
             ],
-            "spawn_count": 19
+            "spawn_count": 27
+        },
+        {
+            "poi_name": "Dockyard",
+            "coordinates_4096": [
+                719,
+                2328
+            ],
+            "spawn_count": 26
+        },
+        {
+            "poi_name": "GravityEngine",
+            "coordinates_4096": [
+                2705,
+                1738
+            ],
+            "spawn_count": 26
         },
         {
             "poi_name": "Turbine",
@@ -132,31 +100,31 @@
                 1841,
                 1723
             ],
-            "spawn_count": 19
+            "spawn_count": 26
         },
         {
-            "poi_name": "Gardens",
+            "poi_name": "HammondLabs",
             "coordinates_4096": [
-                3101,
-                1793
+                2198,
+                2340
             ],
-            "spawn_count": 17
+            "spawn_count": 25
         },
         {
-            "poi_name": "PowerGrid",
+            "poi_name": "Rift",
             "coordinates_4096": [
-                2092,
-                1233
+                2621,
+                1109
             ],
-            "spawn_count": 17
+            "spawn_count": 25
         },
         {
-            "poi_name": "PhaseDriver",
+            "poi_name": "SolarArray",
             "coordinates_4096": [
-                1566,
-                3095
+                2527,
+                3026
             ],
-            "spawn_count": 16
+            "spawn_count": 24
         },
         {
             "poi_name": "Terminal",
@@ -164,15 +132,39 @@
                 1989,
                 2624
             ],
-            "spawn_count": 16
+            "spawn_count": 24
         },
         {
-            "poi_name": "FightNight",
+            "poi_name": "BonsaiPlaza",
             "coordinates_4096": [
-                1647,
-                1270
+                2219,
+                3576
             ],
-            "spawn_count": 14
+            "spawn_count": 23
+        },
+        {
+            "poi_name": "Gardens",
+            "coordinates_4096": [
+                3101,
+                1793
+            ],
+            "spawn_count": 23
+        },
+        {
+            "poi_name": "PowerGrid",
+            "coordinates_4096": [
+                2092,
+                1233
+            ],
+            "spawn_count": 22
+        },
+        {
+            "poi_name": "PhaseDriver",
+            "coordinates_4096": [
+                1566,
+                3095
+            ],
+            "spawn_count": 20
         },
         {
             "poi_name": "SomersUniversity",
@@ -180,7 +172,15 @@
                 3286,
                 2984
             ],
-            "spawn_count": 13
+            "spawn_count": 19
+        },
+        {
+            "poi_name": "FightNight",
+            "coordinates_4096": [
+                1647,
+                1270
+            ],
+            "spawn_count": 17
         }
     ]
 }
